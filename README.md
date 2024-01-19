@@ -1,4 +1,4 @@
-### Pgplot Visualizer
+### Pgplot Visualizer of the three body problem
 
 Requires *cpgplot* for compilation.
 
